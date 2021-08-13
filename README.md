@@ -7,9 +7,8 @@
 4. [Sections](#my-second-title)
 5. [Java Classes](#my-first-title)
 6. [Conclusion](#my-second-title)
-7. [Demo](#my-first-title)
-8. [License](#my-second-title)
-9. [Credits](#my-first-title)
+7. [License](#my-second-title)
+8. [Credits](#my-first-title)
 ## Demo
 
 Link:https://drive.google.com/file/d/1Tf_RBks2sIJYOblW6AD7ThA4gh8epWUu/view?usp=sharing
@@ -135,6 +134,11 @@ It also make the overall billing system easy to access and effective for the use
 ### 7.Pay bill Class
           In this class the users can pay their bill using PAYTM pay bill application.
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/paybill.Screenshot%20(3077).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/paybi ll.Screenshot%20(3077).png)
 
-
+## Conclusion
+         This application can help the users to save their time and efforts by paying their electricity bill online
+         rather than standing in long queues and waiting for their turn to arrive.
+         
+         Since it is a paperless mode of transaction so it is also environment friendly as well as clutter free for the customer.
+## License
