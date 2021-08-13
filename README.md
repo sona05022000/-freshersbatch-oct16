@@ -114,6 +114,6 @@ It also make the overall billing system easy to access and effective for the use
                7.Phone Number
 
 
-![Development and Design]()
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/New%20customerScreenshot%20(3035).png)
 
 
