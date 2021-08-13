@@ -1,8 +1,8 @@
 # Electricity-Billing-Management-System
 # Table of Contents
 
-1. [Demo](##-Demo)
-2. [Description](##-Description)
+1. [Demo](##_Demo)
+2. [Description](##_Description)
 3. [Objective And Aim](##-Objective_And_Aim)
 4. [Sections](##-Sections)
 5. [Java Classes](##-Java_Classes)
