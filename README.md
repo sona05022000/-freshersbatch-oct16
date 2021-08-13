@@ -4,7 +4,7 @@
 1. [Demo](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#demo)
 2. [Description](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#description)
 3. [Objective And Aim](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#objective-and-aim)
-4. [Sections]()
+4. [Sections](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#sections)
 5. [Java Classes](##-Java_Classes)
 6. [Conclusion](##-Conclusion)
 7. [License](##-License)
