@@ -41,14 +41,17 @@ It also make the overall billing system easy to access and effective for the use
 ## Sections 
 
 ### 1. Login Page
-         It consists of Username and Password which the existing consumer or admin can use to login into the main Dashboard of this application.
+         It consists of Username and Password which the existing consumer or admin can use to login into the main Dashboard
+         of this application.
          Also new consumers and admins can make their new account by clicking the new user button. 
 
 ### 2. Menu
          4 Couumns:-
               1. New Customer:- Admin can create and add the account of a new consumer by filling the necessary details. 
-              2. Customer Details:-it shows the customer details having Customer name,Meter number,Address,City,State,Email and Phone number.
-              3. Deposit Details:-Here we can see and search the deposit details by selecting the meter number and month which includes meter number,month                                        units, total bill and Status.
+              2. Customer Details:-it shows the customer details having Customer name,Meter number,Address,City,State,Email and 
+                 Phone number.
+              3. Deposit Details:-Here we can see and search the deposit details by selecting the meter number and 
+                 month which includes meter number,month,units, total bill and Status.
               4. Calculate Bill:-Here the Admin can fill the number of units consumed by a particular consumer.
               
  ### 2. Utility                 
@@ -69,7 +72,13 @@ It also make the overall billing system easy to access and effective for the use
  ### 5.Report
            Generate bill:- Consumers can generate the bill of any particular month here.
            
+ ## Java Classes
  
-           
+ ### 1. Conn Class
+           This class establishes a connection between NetBeans IDE and MySQL.It is done by adding
+           MySQL_connector_java_8.0.26.jar file.
+ 
+ ### 1. Login Class
+           Here an existing customer/admin can login by entering his/her Username and Password.
            
 
