@@ -40,18 +40,24 @@ It also make the overall billing system easy to access and effective for the use
 ## Sections 
 
 ### 1. Login Page
-         It consists of Username and Password which the existing consumer or admin can use to login into the main Dashboard
-         of this application.
+         It consists of Username and Password which the existing consumer or admin can use to login into
+         the main Dashboard of this application.
+         
          Also new consumers and admins can make their new account by clicking the new user button. 
 
 ### 2. Menu
          4 Couumns:-
-              1. New Customer:- Admin can create and add the account of a new consumer by filling the necessary details. 
-              2. Customer Details:-it shows the customer details having Customer name,Meter number,Address,City,State,Email and 
-                 Phone number.
-              3. Deposit Details:-Here we can see and search the deposit details by selecting the meter number and 
-                 month which includes meter number,month,units, total bill and Status.
-              4. Calculate Bill:-Here the Admin can fill the number of units consumed by a particular consumer.
+              1. New Customer:- Admin can create and add the account of a new consumer by filling the 
+                 necessary details. 
+                 
+              2. Customer Details:-it shows the customer details having Customer name,Meter number,
+                 Address,City,State,Email and Phone number.
+                 
+              3. Deposit Details:-Here we can see and search the deposit details by selecting the
+                   meter number and month which includes meter number,month,units, total bill and Status.
+                   
+              4. Calculate Bill:-Here the Admin can fill the number of units consumed by a particular 
+                 consumer.
               
  ### 2. Utility                 
            1.Notepad 
@@ -65,8 +71,11 @@ It also make the overall billing system easy to access and effective for the use
            2.View Information  :-Consumers can View his/her details here.  
  
  ### 4.User 
-           1.Pay Bill:-    Consumers can pay their bill for a particular month by using the Paytm Electricity Bill pay option.
-           2.Bill Details:-Consumers can see their Bill details which include meter number, month,units ,total_bill and status.
+           1.Pay Bill:-    Consumers can pay their bill for a particular month by using the Paytm 
+                           Electricity Bill pay option.
+                           
+           2.Bill Details:-Consumers can see their Bill details which include meter number, month,units
+                           total_bill and status.
            
  ### 5.Report
            Generate bill:- Consumers can generate the bill of any particular month here.
@@ -82,9 +91,10 @@ It also make the overall billing system easy to access and effective for the use
        
 ![Development and Design](  https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/login.Screenshot%20(3032).png)
           
-          If a users wants to create their account for the first time then they can click on new user button below.A new window
-          will open which is create account window.Users can create their account by entering their Username,name
-          password and meter_number.
+          If a users wants to create their account for the first time then they can click on new user 
+          button below.A new window will open which is create account window.Users can create their 
+          account by entering their Username,name, password and meter_number.
+ 
             
 ![Development and Design]( https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/create%20account.Screenshot%20(3033).png)
  
@@ -121,7 +131,8 @@ It also make the overall billing system easy to access and effective for the use
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/customer%20details.Screenshot%20(3073).png)
 
 ### 5.calculate Bill Class
-          Here the Admin can Calculate the bill of a customer by entering the amount of units the customer has consumed for a particular month.
+          Here the Admin can Calculate the bill of a customer by entering the amount of units the customer 
+          has consumed for a particular month.
 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/calculatebill.Screenshot%20(3074).png)
@@ -137,10 +148,12 @@ It also make the overall billing system easy to access and effective for the use
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/paybill.Screenshot%20(3077).png)
 
 ## Conclusion
-         This application can help the users to save their time and efforts by paying their electricity bill online
-         rather than standing in long queues and waiting for their turn to arrive.
+         This application can help the users to save their time and efforts by paying their electricity
+         bill online  rather than standing in long queues and waiting for their turn to arrive.
+   
          
-         Since it is a paperless mode of transaction so it is also environment friendly as well as clutter free for the customer.
+         Since it is a paperless mode of transaction so it is also environment friendly as well as clutter
+         free for the customer.
 ## License
    ### MIT LICENSE
 link:https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/LICENSE
