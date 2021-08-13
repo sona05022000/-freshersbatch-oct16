@@ -120,3 +120,6 @@ It also make the overall billing system easy to access and effective for the use
           The information taken from New Customer class is shown in this class in a tabular form. 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/customer%20details.Screenshot%20(3073).png)
+
+### 7.calculate Bill Class
+          Here the Admin can Calculate the bill of a customer by entering the amount of units the customer has consumed for a particular month.
