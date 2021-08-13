@@ -2,13 +2,13 @@
 # Table of Contents
 
 1. [Demo](##-Demo)
-2. [Description](#my-second-title)
-3. [Objective And Aim](#my-first-title)
-4. [Sections](#my-second-title)
-5. [Java Classes](#my-first-title)
-6. [Conclusion](#my-second-title)
-7. [License](#my-second-title)
-8. [Credits](#my-first-title)
+2. [Description](##-Description)
+3. [Objective And Aim](##-Objective_And_Aim)
+4. [Sections](##-Sections)
+5. [Java Classes](##-Java_Classes)
+6. [Conclusion](##-Conclusion)
+7. [License](##-License)
+8. [Credits](##-Credits)
 ## Demo
 
 Link:https://drive.google.com/file/d/1Tf_RBks2sIJYOblW6AD7ThA4gh8epWUu/view?usp=sharing
