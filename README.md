@@ -97,3 +97,18 @@ It also make the overall billing system easy to access and effective for the use
                   3.Logout                    3.Report
                                               4.Utility
                                               5.Logout
+                                              
+
+          
+                                      
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/main%20dashboard.Screenshot%20(3069).png)
+
+   ### 3.New Customer Class
+          Here the admin can  add the details of a new customer.It has 7 textfields as follows:-
+               1.Name
+               2.Meter Number
+               3.Address
+               4.State
+               5.City
+               6.Email
+               7.Phone Number
