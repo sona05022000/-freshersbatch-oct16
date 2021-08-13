@@ -143,4 +143,4 @@ It also make the overall billing system easy to access and effective for the use
          Since it is a paperless mode of transaction so it is also environment friendly as well as clutter free for the customer.
 ## License
    ### MIT LICENSE
-link: https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md
+link:https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/LICENSE
