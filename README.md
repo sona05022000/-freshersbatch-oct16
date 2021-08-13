@@ -3,8 +3,8 @@
 
 1. [Demo](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#demo)
 2. [Description](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#description)
-3. [Objective And Aim](##-Objective_And_Aim)
-4. [Sections](##-Sections)
+3. [Objective And Aim](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#objective-and-aim)
+4. [Sections]()
 5. [Java Classes](##-Java_Classes)
 6. [Conclusion](##-Conclusion)
 7. [License](##-License)
