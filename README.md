@@ -123,3 +123,6 @@ It also make the overall billing system easy to access and effective for the use
 
 ### 7.calculate Bill Class
           Here the Admin can Calculate the bill of a customer by entering the amount of units the customer has consumed for a particular month.
+
+
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/calculatebill.Screenshot%20(3074).png)
