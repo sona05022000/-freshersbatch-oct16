@@ -132,5 +132,6 @@ It also make the overall billing system easy to access and effective for the use
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/generatebill.Screenshot%20(3043).png)
 
-
+### 7.Pay bill Class
+          In this class the users can pay their bill using PAYTM pay bill application.
 
