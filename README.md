@@ -82,3 +82,7 @@ It also make the overall billing system easy to access and effective for the use
            Here an existing customer/admin can login by entering his/her Username and Password.
        
 ![Development and Design](  https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/login.Screenshot%20(3032).png)
+          
+          If a user wants to create his account for the first time then he/she can click on new user button below.A new window
+          will open which is create account window.
+            
