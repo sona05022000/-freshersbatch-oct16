@@ -118,3 +118,5 @@ It also make the overall billing system easy to access and effective for the use
 
  ### 4.Customer Details Class
           The information taken from New Customer class is shown in this class in a tabular form. 
+
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/customer%20details.Screenshot%20(3073).png)
