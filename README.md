@@ -129,3 +129,8 @@ It also make the overall billing system easy to access and effective for the use
 
 ### 6.Generate Bill Class
           In this Class the final bill is generated.It has two choose fields namely Meter Number and Month.
+
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/generatebill.Screenshot%20(3043).png)
+
+
+
