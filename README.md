@@ -121,8 +121,11 @@ It also make the overall billing system easy to access and effective for the use
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/customer%20details.Screenshot%20(3073).png)
 
-### 7.calculate Bill Class
+### 5.calculate Bill Class
           Here the Admin can Calculate the bill of a customer by entering the amount of units the customer has consumed for a particular month.
 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/calculatebill.Screenshot%20(3074).png)
+
+### 6.Generate Bill Class
+          In this Class the final bill is generated.It has two choose fields namely Meter Number and Month.
