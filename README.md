@@ -5,7 +5,7 @@
 2. [Description](#my-second-title)
 3. [Objective And Aim](#my-first-title)
 4. [Sections](#my-second-title)
-5. [ Java Classes](#my-first-title)
+5. [Java Classes](#my-first-title)
 6. [Conclusion](#my-second-title)
 7. [Demo](#my-first-title)
 8. [License](#my-second-title)
@@ -134,4 +134,7 @@ It also make the overall billing system easy to access and effective for the use
 
 ### 7.Pay bill Class
           In this class the users can pay their bill using PAYTM pay bill application.
+
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/paybill.Screenshot%20(3077).png)
+
 
