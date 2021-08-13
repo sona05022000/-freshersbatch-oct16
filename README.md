@@ -1,7 +1,7 @@
 # Electricity-Billing-Management-System
 # Table of Contents
 
-1. [Demo](##_Demo)
+1. [Demo](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#demo)
 2. [Description](##_Description)
 3. [Objective And Aim](##-Objective_And_Aim)
 4. [Sections](##-Sections)
