@@ -80,5 +80,5 @@ It also make the overall billing system easy to access and effective for the use
  
  ### 1. Login Class
            Here an existing customer/admin can login by entering his/her Username and Password.
-           
-
+       
+![Development and Design](  https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/login.Screenshot%20(3032).png)
