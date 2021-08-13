@@ -78,11 +78,22 @@ It also make the overall billing system easy to access and effective for the use
            This class establishes a connection between NetBeans IDE and MySQL.It is done by adding
            MySQL_connector_java_8.0.26.jar file.
  
- ### 1. Login Class
+ ### 2. Login Class
            Here an existing customer/admin can login by entering his/her Username and Password.
        
 ![Development and Design](  https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/login.Screenshot%20(3032).png)
           
-          If a user wants to create his account for the first time then he/she can click on new user button below.A new window
-          will open which is create account window.
+          If a users wants to create their account for the first time then they can click on new user button below.A new window
+          will open which is create account window.Users can create their account by entering their Username,name
+          password and meter_number.
             
+![Development and Design]( https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/create%20account.Screenshot%20(3033).png)
+ 
+ ### 3.Project Class[Main Dashboard]
+          This class consists of different options in the header such as:-
+               If login as an Admin        If login as a Customer
+                  1.Menu                      1.Information
+                  2.Utility                   2.user
+                  3.Logout                    3.Report
+                                              4.Utility
+                                              5.Logout
