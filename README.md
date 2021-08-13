@@ -8,7 +8,7 @@
 5. [Java Classes](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System#java-classes)
 6. [Conclusion](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System#conclusion)
 7. [License](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#license)
-8. [Credits](##-Credits)
+8. [Credits](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#credits)
 ## Demo
 
 Link:https://drive.google.com/file/d/1Tf_RBks2sIJYOblW6AD7ThA4gh8epWUu/view?usp=sharing
