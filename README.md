@@ -126,12 +126,10 @@ Organizations can use this Application for maintaining the records of employees 
           in the Print window.
  
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/customer%20details.Screenshot%20(3073).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/viewemployee.png)
 
-### 5.calculate Bill Class
-          Here the Admin can Calculate the bill of a customer by entering the amount of units the customer 
-          has consumed for a particular month.
-
+### 5.Print_data Class
+           Admin can also PRINT details/records of any employee by entering Employee ID in the view employee window.
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/calculatebill.Screenshot%20(3074).png)
 
