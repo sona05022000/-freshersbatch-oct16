@@ -80,7 +80,8 @@ Organizations can use this Application for maintaining the records of employees 
            This class establishes a connection between NetBeans IDE and MySQL.It is done by adding
            MySQL_connector_java_8.0.26.jar file.
  ### 2. Front_Page Class
-           It is the first window/page of this application consists of a blink string "EMPLOYEE MANAGEMENT SYSTEM" and one button i.e"CLICK HERE TO CONTINUE".
+           It is the first window/page of this application consists of a blink string
+           "EMPLOYEE MANAGEMENT SYSTEM" and one button i.e"CLICK HERE TO CONTINUE".
  ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Front%20page.png)
  ### 3. Login Class
             It consists of Username and Password which the existing admin can use to login into
@@ -91,14 +92,14 @@ Organizations can use this Application for maintaining the records of employees 
        
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/login.png)
  
- ### 3.Project Class[Main Dashboard]
+ ### 3.Details Class[Main Dashboard]
           This class consists of different options in the header such as:-
-               If login as an Admin        If login as a Customer
-                  1.Menu                      1.Information
-                  2.Utility                   2.user
-                  3.Logout                    3.Report
-                                              4.Utility
-                                              5.Logout
+                  
+                  1.Add                   
+                  2.View                   
+                  3.Remove                    
+                  4.Update                           
+                                       
                                               
 
           
