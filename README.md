@@ -66,13 +66,15 @@ Organizations can use this Application for maintaining the records of employees 
             Email ID          Date Of Birth 
                        
  ### 3. View
-            It consists of Employee ID which the admin can enter to view details of a particular employee in the Print window.
+            It consists of Employee ID which the admin can enter to view details of a particular employee
+            in the Print window.
  
  ### 4.Remove
             Here the Admin can remove records of any Employee by entering their Employee ID.
            
  ### 5.Update
-            Here the Admin can Update the details of any Employee by entering the Employee ID in the Search Window.
+            Here the Admin can Update the details of any Employee by entering the Employee ID in the
+            Search Window.
        
  ## Java Classes
  
@@ -117,10 +119,12 @@ Organizations can use this Application for maintaining the records of employees 
                7.Father's name
 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/New%20customerScreenshot%20(3035).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Add%20details.png)
 
- ### 4.Customer Details Class
-          The information taken from New Customer class is shown in this class in a tabular form. 
+ ### 4.View_Employee Class
+          It consists of Employee ID which the admin can enter to view details of a particular employee
+          in the Print window.
+ 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/customer%20details.Screenshot%20(3073).png)
 
