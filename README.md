@@ -139,11 +139,15 @@ Organizations can use this Application for maintaining the records of employees 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Remove%20Employee.png)
 
-### 7.Search_Employee Class
-          It consists of  a textfield i.e Employee Id which the Admin has to enter to update the details of a particular Employee. 
+### 9.Search_Employee Class
+          It consists of  a textfield i.e Employee Id which the Admin has to enter to update the details
+          of a particular Employee. 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/paybill.Screenshot%20(3077).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Search%20employee.png)
 
+### 10.Update_Employee Class
+          Here the Admin can Update the details of any Employee by entering the Employee ID in the
+          Search Window.
 ## Conclusion
          This application can help the users to save their time and efforts by paying their electricity
          bill online  rather than standing in long queues and waiting for their turn to arrive.
