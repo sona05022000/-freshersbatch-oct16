@@ -14,7 +14,7 @@
 Link:https://drive.google.com/file/d/1Tf_RBks2sIJYOblW6AD7ThA4gh8epWUu/view?usp=sharing
 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/Screenshot%20(3044).png)
+![Development and Design]()
 
 ## Description
 
