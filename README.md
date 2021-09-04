@@ -131,10 +131,11 @@ Organizations can use this Application for maintaining the records of employees 
 ### 5.Print_data Class
            Admin can also PRINT details/records of any employee by entering Employee ID in the view employee window.
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/calculatebill.Screenshot%20(3074).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Print_data.png)
 
-### 6.Generate Bill Class
-          In this Class the final bill is generated.It has two choose fields namely Meter Number and Month.
+### 6.Remove_Employee Class
+        Admin can REMOVE details/records of any employee by using Employee ID of that particular employee.
+
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/generatebill.Screenshot%20(3043).png)
 
