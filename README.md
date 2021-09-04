@@ -159,7 +159,7 @@ Organizations can use this Application for maintaining the records of employees 
          FREE for the orgainzations.
 ## License
    ### MIT LICENSE
-link:https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/LICENSE
+link:https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/LICENSE
         MIT License
 
 Copyright (c) 2021 Kunal Kumar Das
