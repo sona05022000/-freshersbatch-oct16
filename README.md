@@ -104,17 +104,17 @@ Organizations can use this Application for maintaining the records of employees 
 
           
                                       
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/main%20dashboard.Screenshot%20(3069).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Main%20Dashboard.png)
 
-   ### 3.New Customer Class
-          Here the admin can  add the details of a new customer.It has 7 textfields as follows:-
-               1.Name
-               2.Meter Number
-               3.Address
-               4.State
-               5.City
-               6.Email
-               7.Phone Number
+   ### 3.Add_Employee Class
+          Here the admin can  add the details of a new customer.It has 11 textfields as follows:-
+               1.Name                    8.Date of Birth
+               2.Address                 9.Phone
+               3.Age                     10.Education
+               4.Email ID                11.Aadhar No
+               5.Job Post
+               6.Employee ID
+               7.Father's name
 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/New%20customerScreenshot%20(3035).png)
