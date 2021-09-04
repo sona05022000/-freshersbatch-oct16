@@ -149,7 +149,7 @@ Organizations can use this Application for maintaining the records of employees 
           Here the Admin can Update the details of any Employee by entering the Employee ID in the
           Search Window.
           
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Search%20employee.png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Update_Employee.png)
 
 ## Conclusion
          This application can help the users to save their time and efforts by paying their electricity
