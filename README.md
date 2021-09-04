@@ -152,12 +152,11 @@ Organizations can use this Application for maintaining the records of employees 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Update_Employee.png)
 
 ## Conclusion
-         This application can help the users to save their time and efforts by paying their electricity
-         bill online  rather than standing in long queues and waiting for their turn to arrive.
-   
+         This application can help the organizations to maintain the the records of their Employees rather than 
+         using pen,paper and registers.
          
-         Since it is a paperless mode of transaction so it is also environment friendly as well as clutter
-         free for the customer.
+         Since it is a paperless mode of maintaining records so it is also ENVIRONMENT FRIENDLY as well as CLUTTER
+         FREE for the orgainzations.
 ## License
    ### MIT LICENSE
 link:https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/LICENSE
