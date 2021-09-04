@@ -41,46 +41,39 @@ Organizations can use this Application for maintaining the records of employees 
 ## Sections 
 
 ### 1. Login Page
-         It consists of Username and Password which the existing consumer or admin can use to login into
+         It consists of Username and Password which the existing admin can use to login into
          the main Dashboard of this application.
          
-         Also new consumers and admins can make their new account by clicking the new user button. 
+         
 
-### 2. Menu
-         4 Couumns:-
-              1. New Customer:- Admin can create and add the account of a new consumer by filling the 
-                 necessary details. 
+### 2. Employee Details
+        It Consists of 4 Columns:-
+              1. Add 
                  
-              2. Customer Details:-it shows the customer details having Customer name,Meter number,
-                 Address,City,State,Email and Phone number.
+              2. View
                  
-              3. Deposit Details:-Here we can see and search the deposit details by selecting the
-                   meter number and month which includes meter number,month,units, total bill and Status.
-                   
-              4. Calculate Bill:-Here the Admin can fill the number of units consumed by a particular 
-                 consumer.
-              
- ### 2. Utility                 
-           1.Notepad 
-           2.Calculator
-           3.Web Browser
-                
-               Admin /Customer can use these options according to his/her requirement.
+              3. Remove
                
- ### 3. Information
-           1.Update Information:-Consumers can update his/her details here.
-           2.View Information  :-Consumers can View his/her details here.  
+              4. Update
+                
+              
+ ### 2. Add Employee                
+            Admin can add details of a new employee by filling the 
+            necessary details like:-
+            Name              Job Post          Phone
+            Address           Employee ID       Education
+            Age               Father's name     Aadhar No
+            Email ID          Date Of Birth 
+                       
+ ### 3. View
+            It consists of Employee ID which the admin can enter to view details of a particular employee in the Print window.
  
- ### 4.User 
-           1.Pay Bill:-    Consumers can pay their bill for a particular month by using the Paytm 
-                           Electricity Bill pay option.
-                           
-           2.Bill Details:-Consumers can see their Bill details which include meter number, month,units
-                           total_bill and status.
+ ### 4.Remove
+            Here the Admin can remove records of any Employee by entering their Employee ID.
            
- ### 5.Report
-           Generate bill:- Consumers can generate the bill of any particular month here.
-           
+ ### 5.Update
+            Here the Admin can Update the details of any Employee by entering the Employee ID in the Search Window.
+       
  ## Java Classes
  
  ### 1. Conn Class
@@ -88,14 +81,15 @@ Organizations can use this Application for maintaining the records of employees 
            MySQL_connector_java_8.0.26.jar file.
  
  ### 2. Login Class
-           Here an existing customer/admin can login by entering his/her Username and Password.
+            It consists of Username and Password which the existing admin can use to login into
+            the main Dashboard of this application.
+            
+            Username and Password can be changed in the database.
+         
        
 ![Development and Design](  https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/login.Screenshot%20(3032).png)
           
-          If a users wants to create their account for the first time then they can click on new user 
-          button below.A new window will open which is create account window.Users can create their 
-          account by entering their Username,name, password and meter_number.
- 
+       
             
 ![Development and Design]( https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/create%20account.Screenshot%20(3033).png)
  
