@@ -94,7 +94,7 @@ Organizations can use this Application for maintaining the records of employees 
        
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/login.png)
  
- ### 3.Details Class[Main Dashboard]
+ ### 4.Details Class[Main Dashboard]
           This class consists of different options in the header such as:-
                   
                   1.Add                   
@@ -108,7 +108,7 @@ Organizations can use this Application for maintaining the records of employees 
                                       
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Main%20Dashboard.png)
 
-   ### 3.Add_Employee Class
+   ### 5.Add_Employee Class
           Here the admin can  add the details of a new customer.It has 11 textfields as follows:-
                1.Name                    8.Date of Birth
                2.Address                 9.Phone
@@ -121,26 +121,26 @@ Organizations can use this Application for maintaining the records of employees 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Add%20details.png)
 
- ### 4.View_Employee Class
+ ### 6.View_Employee Class
           It consists of Employee ID which the admin can enter to view details of a particular employee
           in the Print window.
  
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/viewemployee.png)
 
-### 5.Print_data Class
+### 7.Print_data Class
            Admin can also PRINT details/records of any employee by entering Employee ID in the view employee window.
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Print_data.png)
 
-### 6.Remove_Employee Class
+### 8.Remove_Employee Class
         Admin can REMOVE details/records of any employee by using Employee ID of that particular employee.
 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/generatebill.Screenshot%20(3043).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Remove%20Employee.png)
 
-### 7.Pay bill Class
-          In this class the users can pay their bill using PAYTM pay bill application.
+### 7.Search_Employee Class
+          It consists of  a textfield i.e Employee Id which the Admin has to enter to update the details of a particular Employee. 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/paybill.Screenshot%20(3077).png)
 
