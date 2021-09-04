@@ -11,7 +11,7 @@
 8. [Credits](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/README.md#credits)
 ## Demo
 
-Link:https://drive.google.com/file/d/1Tf_RBks2sIJYOblW6AD7ThA4gh8epWUu/view?usp=sharing
+Link:
 
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/demo.png)
