@@ -19,7 +19,7 @@ public class MeterInfo extends JFrame implements ActionListener {
     Choice c1, c2, c3,c4, c5;
     JButton b1,b2;
     MeterInfo(String meter){
-        setLocation(600,200);
+        setLocation(200,100);
         setSize(900,500);
         
         JPanel p = new JPanel();
@@ -116,7 +116,7 @@ public class MeterInfo extends JFrame implements ActionListener {
         add(p,"Center");
         
         ImageIcon ic1 = new ImageIcon(ClassLoader.getSystemResource("icon/meterinfo.jpg"));
-        Image i3 = ic1.getImage().getScaledInstance(300, 350,Image.SCALE_DEFAULT);
+        Image i3 = ic1.getImage().getScaledInstance(350, 465,Image.SCALE_DEFAULT);
         ImageIcon ic2 = new ImageIcon(i3);
          l8 = new JLabel(ic2);
      
