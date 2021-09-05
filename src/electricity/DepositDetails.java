@@ -25,8 +25,8 @@ public class DepositDetails extends JFrame implements ActionListener {
     int i=0, j=0;
     DepositDetails(){
         super("Deposit Details");
-        setSize(700,750);
-        setLocation(600,150);
+        setSize(710,320);
+        setLocation(300,200);
         setLayout(null);
         getContentPane().setBackground(Color.WHITE);
         
@@ -48,16 +48,7 @@ public class DepositDetails extends JFrame implements ActionListener {
             Conn c  = new Conn();
             String s1 = "select * from bill";
             ResultSet rs  = c.s.executeQuery(s1);
-//            while(rs.next()){
-//                y[i][j++]=rs.getString("meter");
-//                y[i][j++]=rs.getString("month");
-//                y[i][j++]=rs.getString("units");
-//                y[i][j++]=rs.getString("total_bill");
-//                y[i][j++]=rs.getString("status");
-//                i++;
-//                j=0;
-//            }
-//            
+
             
             t1.setModel(DbUtils.resultSetToTableModel(rs));
             
