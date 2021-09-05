@@ -21,8 +21,8 @@ public class CustomerDetails extends JFrame implements ActionListener {
     int i=0, j=0;
     CustomerDetails(){
         super("Customer Details");
-        setSize(1200,650);
-        setLocation(400,150);
+        setSize(1100,650);
+        setLocation(80,15);
         
         try{
             Conn c1  = new Conn();
