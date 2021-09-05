@@ -116,7 +116,7 @@ public class CalculateBill extends JFrame implements ActionListener{
         b2.setForeground(Color.WHITE);
         
         ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icon/calculatebill3.jpg"));
-        Image i2 = i1.getImage().getScaledInstance(310, 350,Image.SCALE_DEFAULT);
+        Image i2 = i1.getImage().getScaledInstance(410, 470,Image.SCALE_DEFAULT);
         ImageIcon i3 = new ImageIcon(i2);
         l4 = new JLabel(i3);
         
@@ -150,8 +150,8 @@ public class CalculateBill extends JFrame implements ActionListener{
         b2.addActionListener(this);
         
         getContentPane().setBackground(Color.PINK);        
-        setSize(750,500);
-        setLocation(550,220);
+        setSize(950,500);
+        setLocation(200,100);
     }
     public void actionPerformed(ActionEvent ae){
         if(ae.getSource() == b1){
