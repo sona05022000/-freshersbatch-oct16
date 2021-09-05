@@ -131,7 +131,7 @@ Organizations can use this Application for maintaining the records of employees 
 ### 7.Print_data Class
            Admin can also PRINT details/records of any employee by entering Employee ID in the view employee window.
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Print_data.png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/print.png)
 
 ### 8.Remove_Employee Class
         Admin can REMOVE details/records of any employee by using Employee ID of that particular employee.
