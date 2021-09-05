@@ -23,7 +23,7 @@ public class BillDetails extends JFrame{
     BillDetails(String meter){
         super("Bill Details");
         setSize(700,650);
-        setLocation(600,150);
+        setLocation(300,30);
         setLayout(null);
         getContentPane().setBackground(Color.WHITE);
         
@@ -42,7 +42,7 @@ public class BillDetails extends JFrame{
         
         
         JScrollPane sp = new JScrollPane(t1);
-        sp.setBounds(0, 0, 700, 650);
+        sp.setBounds(0, 0,680, 620);
         add(sp);
         
     }
