@@ -21,7 +21,7 @@ public class Signup extends JFrame implements ActionListener{
     Choice c1;
     JButton b1, b2;
     Signup(){
-        setBounds(600, 250, 700, 400);
+        setBounds(300, 150, 700, 400);
         
         p1 = new JPanel();
         p1.setBounds(30, 30, 650, 300);
