@@ -38,7 +38,7 @@ public class Paytm  extends JFrame implements ActionListener {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         getContentPane().add(scrollPane);
         setPreferredSize(new Dimension(800,600));
-        setSize(800,800);
+        setSize(800,400);
         setLocation(250,120);
         setVisible(true);
     }
