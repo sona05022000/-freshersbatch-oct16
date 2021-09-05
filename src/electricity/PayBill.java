@@ -25,7 +25,7 @@ public class PayBill extends JFrame implements ActionListener {
         this.meter = meter;
         setLayout(null);
         
-        setBounds(550, 220, 950, 600);
+        setBounds(100, 50, 1100, 600);
         
         JLabel title = new JLabel("Electricity Bill");
         title.setFont(new Font("Tahoma", Font.BOLD, 24));
@@ -139,11 +139,11 @@ public class PayBill extends JFrame implements ActionListener {
         b2.setBackground(Color.BLACK);
         b2.setForeground(Color.WHITE);
         
-        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icon/paybill5.jpg"));
-        Image i2 = i1.getImage().getScaledInstance(450, 300,Image.SCALE_DEFAULT);
+        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icon/paybill55.jpg"));
+        Image i2 = i1.getImage().getScaledInstance(650, 900,Image.SCALE_DEFAULT);
         ImageIcon i3 = new ImageIcon(i2);
         JLabel l21 = new JLabel(i3);
-        l21.setBounds(400, 120, 600, 300);
+        l21.setBounds(450, 0, 700, 900);
         add(l21);
         
         b1.addActionListener(this);
