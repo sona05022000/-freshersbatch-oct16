@@ -76,7 +76,9 @@ public class Print_Data implements ActionListener {
         
         id= new JLabel("Employee Id:");
         id.setBounds(50,70,120,30);
+
         id.setFont(new Font("serif",Font.BOLD,20));
+
         id9.add(id);
         
           aid= new JLabel(emp_id);
