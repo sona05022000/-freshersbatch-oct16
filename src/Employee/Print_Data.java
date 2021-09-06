@@ -112,7 +112,7 @@ public class Print_Data implements ActionListener {
         id3.setFont(new Font("serif",Font.BOLD,20));
         id9.add(id3);
         
-        aid3= new JLabel(age);
+        aid3= new JLabel(address);
         aid3.setBounds(200,220,100,30);
         aid3.setFont(new Font("serif",Font.BOLD,20));
         id9.add(aid3);
