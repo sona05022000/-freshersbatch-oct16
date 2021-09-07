@@ -129,7 +129,8 @@ Organizations can use this Application for maintaining the records of employees 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/viewemployee.png)
 
 ### 7.Print_data Class
-           Admin can also PRINT details/records of any employee by entering Employee ID in the view employee window.
+           Admin can also PRINT details/records of any employee by entering Employee ID
+           in the view employee window.
 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/print.png)
 
@@ -152,11 +153,11 @@ Organizations can use this Application for maintaining the records of employees 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Update_Employee.png)
 
 ## Conclusion
-     This application can help the organizations to maintain the the records of their Employees rather than 
-      using pen,paper and registers.
+    This application can help the organizations to maintain the the records of their Employees rather than 
+     using pen,paper and registers.
          
-      Since it is a paperless mode of maintaining records so it is also ENVIRONMENT FRIENDLY as well as CLUTTER
-      FREE for the orgainzations.
+     Since it is a paperless mode of maintaining records so it is also ENVIRONMENT FRIENDLY as well as CLUTTER
+     FREE for the orgainzations.
 ## License
    ### MIT LICENSE
 link:https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/LICENSE
