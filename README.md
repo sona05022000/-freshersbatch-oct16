@@ -30,7 +30,7 @@ Employee Management System is a Desktop based application developed using Java l
 
 👉Admin can also PRINT details/records of any employee.
 
-👉Admin can REMOVE details/records of any employee by using Employee ID of that particular employee.
+👉Admin can REMOVE details/records of any employee by using Employee ID of that particular employee..
 
 
 ## Objective and Aim 
